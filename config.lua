@@ -5,14 +5,6 @@ Config.VendingProps = {
         items = {
             {name = "water", label = "Water", price = 17, img = "water.png"},
             {name = "water", label = "Water", price = 17, img = "water.png"},
-            {name = "water", label = "Water", price = 17, img = "water.png"},
-            {name = "water", label = "Water", price = 17, img = "water.png"},
-            {name = "water", label = "Water", price = 17, img = "water.png"},
-            {name = "water", label = "Water", price = 17, img = "water.png"},
-            {name = "water", label = "Water", price = 17, img = "water.png"},
-            {name = "water", label = "Water", price = 17, img = "water.png"},
-            {name = "water", label = "Water", price = 17, img = "water.png"},
-            {name = "water", label = "Water", price = 17, img = "water.png"},
             {name = "weapon_smg", label = "SMG", price = 20, img = "bread.png", weapon = true},
         }
     },
